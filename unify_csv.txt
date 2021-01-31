@@ -1,0 +1,5 @@
+Steps:
+1.Create "Files_required" folder
+2.Keep all files in "Files_required" folder
+3.Run csv_files_unify.py
+4.Unified_csv.csv file will be created which will have all csv files unified.
